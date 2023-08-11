@@ -1,0 +1,2 @@
+# fakepinterest
+ inicio do projeto
