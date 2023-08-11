@@ -1,0 +1,17 @@
+# nós usamos o block para separar oque temos que editar, o restante do código fora do block será aproveitado
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {% block titulo %}
+        FakePinterest
+        {% endblock %}
+    </title>
+</head>
+<body>
+    <h1>"FakePiterest - Meu Primeiro site no Ar"</h1>
+    <h2>Agora vamos continuar nosso site </h2>
+</body>
+</html>
+
